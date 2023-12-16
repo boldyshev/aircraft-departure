@@ -1,0 +1,60 @@
+{
+  "total": "accuracy: 0.88, precision: 0.9, recall: 0.81, f1: 0.85, jaccard: 0.74, speed: 0.02",
+  "video_0.mp4": {
+    "metrics": "accuracy: 1.0, precision: 1.0, recall: 1.0, f1: 1.0, jaccard: nan"
+  },
+  "video_1.mp4": {
+    "metrics": "accuracy: 0.94, precision: 1.0, recall: 0.89, f1: 0.94, jaccard: 0.89"
+  },
+  "video_2.mp4": {
+    "metrics": "accuracy: 0.95, precision: 0.78, recall: 0.88, f1: 0.82, jaccard: 0.7"
+  },
+  "video_3.mp4": {
+    "metrics": "accuracy: 0.98, precision: 0.89, recall: 1.0, f1: 0.94, jaccard: 0.89"
+  },
+  "video_4.mp4": {
+    "metrics": "accuracy: 0.53, precision: 0.5, recall: 0.06, f1: 0.11, jaccard: 0.06"
+  },
+  "video_5.mp4": {
+    "metrics": "accuracy: 0.92, precision: 0.77, recall: 0.97, f1: 0.86, jaccard: 0.75"
+  },
+  "video_6.mp4": {
+    "metrics": "accuracy: 0.89, precision: 0.89, recall: 1.0, f1: 0.94, jaccard: 0.89"
+  },
+  "video_7.mp4": {
+    "metrics": "accuracy: 0.66, precision: 1.0, recall: 0.66, f1: 0.79, jaccard: 0.66"
+  },
+  "video_8.mp4": {
+    "metrics": "accuracy: 0.75, precision: 0.0, recall: 1.0, f1: 0.0, jaccard: 0.0"
+  },
+  "video_9.mp4": {
+    "metrics": "accuracy: 1.0, precision: 1.0, recall: 1.0, f1: 1.0, jaccard: nan"
+  },
+  "video_10.mp4": {
+    "metrics": "accuracy: 0.79, precision: 1.0, recall: 0.0, f1: 0.0, jaccard: 0.0"
+  },
+  "video_11.mp4": {
+    "metrics": "accuracy: 1.0, precision: 1.0, recall: 1.0, f1: 1.0, jaccard: 1.0"
+  },
+  "video_13.mp4": {
+    "metrics": "accuracy: 0.86, precision: 0.98, recall: 0.68, f1: 0.8, jaccard: 0.67"
+  },
+  "video_14.mp4": {
+    "metrics": "accuracy: 0.97, precision: 0.75, recall: 0.75, f1: 0.75, jaccard: 0.6"
+  },
+  "video_15.mp4": {
+    "metrics": "accuracy: 0.79, precision: 0.71, recall: 1.0, f1: 0.83, jaccard: 0.71"
+  },
+  "video_16.mp4": {
+    "metrics": "accuracy: 0.91, precision: 0.84, recall: 1.0, f1: 0.91, jaccard: 0.84"
+  },
+  "video_17.mp4": {
+    "metrics": "accuracy: 0.98, precision: 0.89, recall: 1.0, f1: 0.94, jaccard: 0.89"
+  },
+  "video_18.mp4": {
+    "metrics": "accuracy: 0.91, precision: 1.0, recall: 0.91, f1: 0.95, jaccard: 0.91"
+  },
+  "video_19.mp4": {
+    "metrics": "accuracy: 0.97, precision: 1.0, recall: 0.89, f1: 0.94, jaccard: 0.89"
+  }
+}
