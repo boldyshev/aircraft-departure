@@ -1,0 +1,9 @@
+platform: ultralytics
+model_name: yolov8x-seg.pt
+detection_threshold: 0.25
+object_marker: segmentation
+mask_trunc_part: 0.2
+save_frames: False
+save_results: False
+config_file: None
+checkpoint_file: None
